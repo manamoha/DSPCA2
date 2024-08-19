@@ -1,0 +1,7 @@
+rec_2m 1 500 10000
+rec_2m.mat 16+192 200/mV 12 0 -3 1503 0 ECG I
+# Age: 23
+# Sex: female
+# ECG date: 07.12.2004
+#Creator: wfdb2mat
+#Source: record rec_2
